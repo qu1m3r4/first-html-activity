@@ -1,2 +1,2 @@
 # first-html-activity
-Mi primer miniproyecto HTML
+Mi primer miniproyecto escrito en HTML :)
